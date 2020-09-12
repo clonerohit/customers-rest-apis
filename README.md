@@ -28,6 +28,7 @@ Note: Make sure that you change the values of DB configs in application.properti
 To run:
 
 mvn eclipse:eclipse && mvn clean install
+
 mvn sprint-boot:run
 
 The project is contributed by Rohit Suthar on Sept 12th 2020.
