@@ -20,6 +20,7 @@ Technologies Used in the Project:
 6. JQuery/AJAX
 
 To run the project, create a schema first with the below script:
+
 create database 'customers';
 
 Note: Make sure that you change the values of DB configs in application.properties
