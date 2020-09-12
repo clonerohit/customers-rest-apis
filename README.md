@@ -29,7 +29,7 @@ To run:
 
 mvn eclipse:eclipse && mvn clean install
 
-mvn sprint-boot:run
+mvn spring-boot:run
 
 The project is contributed by Rohit Suthar on Sept 12th 2020.
 
