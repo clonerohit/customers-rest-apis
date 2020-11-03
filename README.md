@@ -1,5 +1,5 @@
 # customers-rest-apis-impl
-Implementation of Customer's REST APIs
+Exposing Customer's REST APIs in Spring Boot at the end
 
 This project is the implementation of REST APIs on Customer Entity using Form.
 
@@ -10,7 +10,7 @@ Here the the endpoints of APIs:
 3. PUT : http://localhost:8080/customers/{customer_id}
 4. DELETE : http://localhost:8080/customers/{customer_id}
 
-Technologies Used in the Project:
+## Technologies Used in the Project:
 
 1. Spring/Spring Boot
 2. MySQL
@@ -21,15 +21,15 @@ Technologies Used in the Project:
 
 To run the project, create a schema first with the below script:
 
-create database 'customers';
+**create database 'customers';**
 
-Note: Make sure that you change the values of DB configs in application.properties
+> Note: Make sure that you change the values of DB configs in application.properties
 
 To run:
 
-mvn eclipse:eclipse && mvn clean install
+**mvn eclipse:eclipse && mvn clean install**
 
-mvn spring-boot:run
+**mvn spring-boot:run**
 
 The project is contributed by Rohit Suthar on Sept 12th 2020.
 
