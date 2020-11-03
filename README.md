@@ -10,7 +10,7 @@ Here the the endpoints of APIs:
 3. PUT : http://localhost:8080/customers/{customer_id}
 4. DELETE : http://localhost:8080/customers/{customer_id}
 
-## Technologies Used in the Project:
+### Technologies used in the project:
 
 1. Spring/Spring Boot
 2. MySQL
@@ -21,7 +21,7 @@ Here the the endpoints of APIs:
 
 To run the project, create a schema first with the below script:
 
-**create database 'customers';**
+**CREATE DATABASE 'customers';**
 
 > Note: Make sure that you change the values of DB configs in application.properties
 
