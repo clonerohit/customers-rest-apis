@@ -21,13 +21,15 @@ Here the the endpoints of APIs:
 
 To run the project, create a schema first with the below script:
 
-**CREATE DATABASE 'customers';**
+```
+CREATE DATABASE 'customers';
+```
 
 > Note: Make sure that you change the values of DB configs in application.properties
 
 To run:
 
-**mvn eclipse:eclipse && mvn clean install**
-
-**mvn spring-boot:run**
-
+```
+mvn eclipse:eclipse && mvn clean install
+mvn spring-boot:run
+```
