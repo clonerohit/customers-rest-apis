@@ -1,4 +1,5 @@
-# customers-rest-apis-impl
+## spring-boot-rest-apis
+
 Exposing Customer's REST APIs in Spring Boot at the end
 
 This project is the implementation of REST APIs on Customer Entity using Form.
@@ -30,6 +31,8 @@ CREATE DATABASE 'customers';
 To run:
 
 ```
-mvn eclipse:eclipse && mvn clean install
+mvn clean install
 mvn spring-boot:run
 ```
+
+[git/clonerohit](https://www.github.com/clonerohit)
