@@ -35,4 +35,4 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-[git/clonerohit](https://www.github.com/clonerohit)
+[git/clonerohit](https://www.github.com/rowhyt)
