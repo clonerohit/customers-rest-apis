@@ -34,5 +34,3 @@ To run:
 mvn clean install
 mvn spring-boot:run
 ```
-
-[git/rowhyt](https://www.github.com/rowhyt)
